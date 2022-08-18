@@ -1,0 +1,9 @@
+#titulo {
+    display: flex;
+    justify-content:space-around;
+    margin: 100px;
+}
+.nombres{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+}
